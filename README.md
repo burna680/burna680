@@ -4,8 +4,11 @@
 👋 Hello! I'm an Electronig engineering student interested in Deep Learning, currently elaborating my degree thesis at FIUBA (Facultad de Ingenieria - Universidad de Buenos Aires)
 
 ## Languages and tools
-<img height="32" width="32" src="https://user-images.githubusercontent.com/38573537/202923560-b3d18035-209c-4932-9d43-6b6d2d144de2.svg" />
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burna680)](https://github.com/anuraghazra/github-readme-stats)
 
