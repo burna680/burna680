@@ -5,7 +5,7 @@
 
 ## Languages and tools
 <img height="32" width="32" src="https://user-images.githubusercontent.com/38573537/202923560-b3d18035-209c-4932-9d43-6b6d2d144de2.svg" />
-
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burna680)](https://github.com/anuraghazra/github-readme-stats)
 
