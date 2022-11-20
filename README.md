@@ -2,6 +2,7 @@
 
 ## About me 
 👋 Hello!
+
  I'm an Electronig engineering student interested in Deep Learning, currently elaborating my degree thesis at FIUBA (Facultad de Ingenieria - Universidad de Buenos Aires)
 
 ## Languages and tools
