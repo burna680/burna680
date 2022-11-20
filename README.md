@@ -14,12 +14,11 @@
   <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
   <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
   <img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&logoColor=black%22%20alt=%22R" alt="R" />
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=black%22%20alt=%22cplusplus" alt="c++" />
-   <img src="https://img.shields.io/badge/Azure_dev_ops-blue?style=for-the-badge&logo=azuredevops&logoColor=black%22%20alt=%22azuredevops" alt="azure_dev_ops" />
+ <img src="https://img.shields.io/badge/Azure_dev_ops-darkblue?style=for-the-badge&logo=azuredevops&logoColor=black%22%20alt=%22azuredevops" alt="azure_dev_ops" />
+  <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" />
     <img src="https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=white%22%20alt=%22tensorflow" alt="tensorflow" />
      <img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv&logoColor=white%22%20alt=%22opencv" alt="opencv" />
 </div>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burna680)](https://github.com/anuraghazra/github-readme-stats)
 
