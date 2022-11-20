@@ -5,7 +5,8 @@
 
 ## Languages and tools
 
-#F05032
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#F05032.svg" />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burna680)](https://github.com/anuraghazra/github-readme-stats)
 
