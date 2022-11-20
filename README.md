@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
   <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
   <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
+  <img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&logoColor=black%22%20alt=%22R" alt="R" />
 </div>
 
 
