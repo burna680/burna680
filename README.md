@@ -5,7 +5,8 @@
 
 ## Languages and tools
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#F05032.svg" />
+![git](https://user-images.githubusercontent.com/38573537/202923560-b3d18035-209c-4932-9d43-6b6d2d144de2.svg)
+![github](https://user-images.githubusercontent.com/38573537/202923566-4a9e2a3f-649a-444c-8510-adc8d4bf94f6.svg)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burna680)](https://github.com/anuraghazra/github-readme-stats)
