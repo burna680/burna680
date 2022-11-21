@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" />
   <img src="https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=white%22%20alt=%22tensorflow" alt="tensorflow" />
   <img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv&logoColor=white%22%20alt=%22opencv" alt="opencv" />
-  <img src="https://img.shields.io/badge/Mongo-100000?style=for-the-badge&logo=mongodb&logoColor=black%22%20alt=%22mongo" alt="mongodb"
+  <img src="https://img.shields.io/badge/Mongo-100000?style=for-the-badge&logo=mongodb&logoColor=black%22%20alt=%22mongo" alt="mongodb" />
+  <img src="https://img.shields.io/badge/Docker-whitesmoke?style=for-the-badge&logo=docker&logoColor=white%22%20alt=%22docker%22" alt="docker"/>
+  <img src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java&logoColor=white%22%20alt=%22java%22" alt="java" />
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burna680)](https://github.com/anuraghazra/github-readme-stats)
