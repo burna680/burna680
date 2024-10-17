@@ -1,41 +1,36 @@
-![banner](https://github.com/user-attachments/assets/4d042ac4-f2b8-4eee-9fda-14099b51a81a)
 
-## About me 
-👋 Hello!
+<img src="images/banner.svg"></img>
 
- I'm an Electronig engineering student interested in Deep Learning, currently elaborating my degree thesis at FIUBA (Facultad de Ingenieria - Universidad de Buenos Aires)
+I'm an **Electronic Engineering** student at [FIUBA](http://www.fi.uba.ar/), currently working on my **degree thesis** focused on **Deep Learning**. I am passionate about developing AI-driven solutions, with a growing interest in **Natural Language Processing (NLP)** and **Computer Vision**. My hands-on experience spans across various tools and frameworks, allowing me to design, train, and deploy machine learning models that solve real-world problems.
 
-## Languages and tools
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
-  <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
-  <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
-  <img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&logoColor=black%22%20alt=%22R" alt="R" />
-  <img src="https://img.shields.io/badge/Azure_dev_ops-darkblue?style=for-the-badge&logo=azuredevops&logoColor=black%22%20alt=%22azuredevops" alt="azure_dev_ops" />
-  <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" />
-  <img src="https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=white%22%20alt=%22tensorflow" alt="tensorflow" />
-  <img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv&logoColor=white%22%20alt=%22opencv" alt="opencv" />
-  <img src="https://img.shields.io/badge/Mongo-100000?style=for-the-badge&logo=mongodb&logoColor=black%22%20alt=%22mongo" alt="mongodb" />
-  <img src="https://img.shields.io/badge/Docker-whitesmoke?style=for-the-badge&logo=docker&logoColor=white%22%20alt=%22docker%22" alt="docker"/>
-  <img src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java&logoColor=white%22%20alt=%22java%22" alt="java" />
+* 🌍  I'm based in Buenos Aires
+* 🖥️  See my portfolio at [my personal website](http://burna680.github.io/portfolio)
+* ✉️  You can contact me at [burna680@gmail.com](mailto:burna680@gmail.com)
+
+### Skills
+
+
+<p align="center">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+</p>
+
+
+
+<p align="center"> <a href="https://burna680.github.io/portfolio/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<div style="text-align: center;">
+  <b>My GitHub Stats</b>
+  <br>
+  <a href="https://github.com/burna680" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burna680&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+  <br>
+  <a href="http://www.github.com/burna680">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=burna680&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burna680)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**burna680/burna680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Inspired by [Bruno tacca](https://github.com/brunotacca/brunotacca) and the [ProfileMe page](https://www.profileme.dev/)
