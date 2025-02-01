@@ -4,7 +4,7 @@
 I'm an **Electronic Engineering** student at [FIUBA](http://www.fi.uba.ar/), currently working on my **degree thesis** focused on **Deep Learning**. I am passionate about developing AI-driven solutions, with a growing interest in **Natural Language Processing (NLP)** and **Computer Vision**. My hands-on experience spans across various tools and frameworks, allowing me to design, train, and deploy machine learning models that solve real-world problems.
 
 * 🌍  I'm based in Buenos Aires
-* 🖥️  See my portfolio at [my personal website](http://burna680.github.io/portfolio)
+* 🖥️  See my portfolio at [my personal website](https://burna680.netlify.app/)
 * ✉️  You can contact me at [burna680@gmail.com](mailto:burna680@gmail.com)
 
 ### Skills
